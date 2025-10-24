@@ -1,11 +1,11 @@
-# 🤖 NAO Robot – SoulForge Cognitive OS
+# NAO Robot – SoulForge Cognitive OS
 
 **SoulForge** is a 2,284-line, single-file AI system built by a 14-year-old for the **NAO V5 humanoid robot**.  
 It merges reasoning, vision, speech, motion, and navigation into one compact, self-contained program — enabling the robot to perceive, plan, act, and learn autonomously.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 SoulForge is a **cognitive operating system** designed to make embodied AI more accessible.  
 Built from scratch in Python, it integrates multiple advanced models into a unified seven-core framework that runs entirely in one file.
@@ -21,7 +21,7 @@ Built from scratch in Python, it integrates multiple advanced models into a unif
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 SoulForge is composed of **seven asynchronous cores** communicating via event queues and TTL caches:
 
@@ -35,11 +35,9 @@ SoulForge is composed of **seven asynchronous cores** communicating via event qu
 | SocialCore | Face/emotion recognition and group HRI |
 | SystemCore | Reliability, health, and efficiency monitoring |
 
-🧩 *All combined in a single Python file for full portability.*
-
 ---
 
-## 📊 Performance
+## Performance
 
 | Metric | Result |
 |---------|---------|
@@ -51,7 +49,7 @@ SoulForge is composed of **seven asynchronous cores** communicating via event qu
 
 ---
 
-## 🧩 Example Applications
+## Example Applications
 - Adaptive cloth folding (92% success)
 - Precision golf swing (88% accuracy)
 - Multilingual classroom assistant
@@ -60,7 +58,7 @@ SoulForge is composed of **seven asynchronous cores** communicating via event qu
 
 ---
 
-## 🚀 Goals
+## Goals
 SoulForge aims to:
 1. **Democratize robotics AI** — no ROS, no dependencies, one file.  
 2. **Inspire youth innovation** — proof that research-grade robotics is achievable by anyone.  
@@ -68,7 +66,7 @@ SoulForge aims to:
 
 ---
 
-## 🧾 Citation
+## Citation
 
 If you reference this work, please cite:
 
