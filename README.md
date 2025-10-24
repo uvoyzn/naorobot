@@ -72,6 +72,6 @@ If you reference this work, please cite:
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17437808.svg)](https://doi.org/10.5281/zenodo.17437808)
-📄 [Read Full Paper (PDF)](https://github.com/uvoyzn/naorobot/blob/main/Yujin%20Ahn%20-%20Soulforge.pdf)
-🌐 [OpenAIRE Listing](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17437808)
+[Read Full Paper (PDF)](https://github.com/uvoyzn/naorobot/blob/main/Yujin%20Ahn%20-%20Soulforge.pdf)
+[OpenAIRE Listing](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17437808)
 
